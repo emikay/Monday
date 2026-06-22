@@ -1,5 +1,5 @@
-# Monday
-I am learning GitHub
+# Tuesday
+I am still learning GitHub
 ## About Me
 I am a student at SDCE, we are learning about GH
 
